@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Wunder Test App</string>
+
+    <string name="car_list">List</string>
+    <string name="car_map">Map</string>
+    <string name="car_item_name">Name: </string>
+    <string name="car_item_address">Address: </string>
+    <string name="car_item_engine">Engine type: </string>
+    <string name="car_item_fuel">Fuel: </string>
+    <string name="car_item_exterior">Exterior: </string>
+    <string name="car_item_interior">Interior: </string>
+    <string name="car_item_vin">Vin: </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="google_maps_key">AIzaSyDVEpSJMZgmdXHzHHbZ4nhtGBr5hYo4iAw</string>
+
+
+</resources>
